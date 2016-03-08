@@ -1,0 +1,26 @@
+/* font-family: "ProximaNovaRegular"; */
+@font-face {
+    font-family: "ProximaNovaRegular";
+    src: url("ProximaNovaRegular/proximanova-regular.otf");
+    src: url("ProximaNovaRegular/proximanova-regular.svg?#iefix")format("embedded-opentype"),
+    url("ProximaNovaRegular/proximanova-regular.woff") format("woff"),
+    url("ProximaNovaRegular/proximanova-regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+/* font-family: "MyriadProRegular"; */
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("MyriadProRegular/MyriadProRegular.eot");
+    src: url("MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("MyriadProRegular/MyriadProRegular.woff") format("woff"),
+    url("MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+/* font-family: "NexaBold"; */
+@font-face {
+font-family: 'NexaBold';
+src: url('NexaBold/NexaBold.eot');
+src: local('NexaBold'), url('NexaBold/NexaBold.woff') format('woff'), url('NexaBold/NexaBold.ttf') format('truetype');
+}
